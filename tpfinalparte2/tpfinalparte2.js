@@ -1,5 +1,5 @@
 // christian strack y carmela urturi
-//falt video
+//https://youtu.be/8hUSY0bg2Zk
 let fondo;
 let juego;
 let imgJugador;
@@ -23,3 +23,4 @@ function setup() {
 function draw() {
   juego.actualizar();
 }
+
